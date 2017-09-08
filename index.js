@@ -39,3 +39,7 @@ else if (string === uppercase) {
     return `I love you, too.`
   }
 }
+
+sayHiToGrandma(I LOVE YOU!)
+sayHiToGrandma(i love you!)
+sayHiToGrandma(I love you, Grandma!)
